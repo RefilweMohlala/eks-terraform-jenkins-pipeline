@@ -27,6 +27,13 @@ Ensure you have the following installed and configured:
 
 ---
 ## 📸 Screenshots
+Terraform Apply
+![terraform apply](https://github.com/user-attachments/assets/7f153492-6fc1-471d-b15e-2e1a01c08263)
+Terraform Output
+![terraform output](https://github.com/user-attachments/assets/927065e8-b78a-4d3b-b21b-6e824fa24fef)
+Running EKS Cluster
+![running eks cluster](https://github.com/user-attachments/assets/2c890b70-d1dd-4675-849d-2d7ffe41d1d0)
+
 
 ---
 
